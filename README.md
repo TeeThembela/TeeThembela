@@ -14,29 +14,29 @@ I am currently seeking graduate and entry-level Software Engineer opportunities,
 ---
 
 <!-- Programming Languages -->
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
 <!-- Frameworks and ORM -->
-<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Spring" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Hibernate" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Hibernate-Dark.svg" />
 
 <!-- Databases and Caching -->
-<img align="left" alt="PostgreSQL" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
+<img align="left" alt="PostgreSQL" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" />
 <img align="left" alt="Redis" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Redis-Dark.svg" />
 
 <!-- Build Tools and Messaging -->
-<img align="left" alt="Maven" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" />
+<img align="left" alt="Maven" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Maven-Dark.svg" />
 <img align="left" alt="Kafka" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Kafka.svg" />
-<img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
+<img align="left" alt="Docker" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg" />
 
 <!-- Development and Testing Tools -->
 <img align="left" alt="IntelliJ IDEA" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" />
-<img align="left" alt="VS Code" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
+<img align="left" alt="VS Code" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" />
 <img align="left" alt="Postman" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" />
 
 <!-- Version Control and Community -->
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <br clear="left" />
