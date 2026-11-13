@@ -1,8 +1,8 @@
 # I'm Thembela Tole
 
-`Software Engineer (Java and Spring Boot)`
+`Software Engineer | Java and Spring Boot`
 
-I am a Software Engineer with a BSc Honours in Computer Science from the University of Fort Hare, focused on backend and distributed systems. I build secure backend applications REST APIs using Java and Spring Boot, with experience in authentication, database management, and containerisation.
+I am a Computer Science Honours graduate from the University of Fort Hare, focused on backend software development and distributed systems. I build backend applications and REST APIs using Java and Spring Boot, with experience in authentication, database management, and containerisation.
 
 My academic research involved developing a CNN-based crop disease detection system that achieved 95.42% classification accuracy.
 
@@ -38,7 +38,6 @@ I am currently seeking graduate and entry-level Software Engineer opportunities,
 <!-- Version Control and Community -->
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Stack Overflow" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/StackOverflow-Dark.svg" />
 
 <br clear="left" />
 
@@ -86,7 +85,7 @@ A backend REST API for personal expense management, allowing users to manage exp
 
 ---
 
-### Authorization Service API
+### [Authorization Service API](https://github.com/TeeThembela/Auth-Service)
 
 **Status:** In Development
 
@@ -173,15 +172,12 @@ isiXhosa (Native) · English (Proficient)
 
 ## Get in Touch
 
-
-## Get in Touch
-
 <a href="https://www.linkedin.com/in/thembela-tole" target="_blank">
   <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" />
 </a>
 
 <a href="mailto:tolethembela@gmail.com">
-  <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://icon-icons.com/icon/gmail-google-mail-email/133230?ii_item_modal=1&ii_modal_origin=%2Fsearch%2Ficons%2Femail" />
+  <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://github.com/TeeThembela/TeeThembela/blob/main/gmail_google_mail_email_icon_133230.svg" />
 </a>
 
 <br clear="left" />
