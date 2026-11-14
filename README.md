@@ -177,6 +177,12 @@ isiXhosa (Native) · English (Proficient)
 
 ---
 
+## 📊 GitHub Statistics
+
+[![TeeThembela's GitHub stats](https://github-stats-extended.vercel.app/api/?username=TeeThembela&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Thembela's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=TeeThembela&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Thembela's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
+
+---
+
 ## Get in Touch
 
 <a href="https://www.linkedin.com/in/thembela-tole" target="_blank">
