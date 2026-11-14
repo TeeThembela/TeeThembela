@@ -85,20 +85,29 @@ A backend REST API for personal expense management, allowing users to manage exp
 
 ### [Authorization Service API](https://github.com/TeeThembela/Auth-Service)
 
-**Status:** In Development
+**Status:** Core implementation completed
 
 **Overview:**  
-A standalone backend authorization service designed to handle authentication and access control for applications.
+A stateless authentication and authorization REST API built with Spring Boot and Spring Security. It manages the user account lifecycle, including registration, email verification, JWT authentication, session management, and password reset.
 
 **Key Features:**
-- Authentication and authorization functionality.
-- Centralised access control for application resources.
-- Secure API communication.
+- User registration with email verification using time-limited codes.
+- JWT-based authentication with short-lived access tokens.
+- Refresh-token rotation to prevent the reuse of old refresh tokens.
+- Logout from the current device or all active sessions.
+- Password reset through email verification.
+- Asynchronous email delivery with retries.
+- Standardized API responses and interactive Swagger documentation.
 
 **Technical Highlights:**
-- Developing a standalone service with a focus on separation of security responsibilities and maintainable backend architecture.
+- Implemented stateless access-token validation without database lookups on each request.
+- Used secure, HTTP-only cookies to manage refresh and password-reset tokens.
+- Added token-type claims to separate access, refresh, and password-reset tokens.
+- Used Flyway for database migrations and Hibernate schema validation.
+- Implemented scheduled cleanup of expired refresh tokens.
+- Configured Docker Compose to run the API, PostgreSQL, and Mailpit.
 
-**Technologies:** Java, Spring Boot.
+**Technologies:** Java 21,Spring Boot 4, Spring Security 7, Spring Data JPA and Hibernate 7, PostgreSQL 18, Flyway, JJWT, Spring Mail and Thymeleaf, Docker and Docker Compose, Maven, OpenAPI and Swagger UI
 
 ---
 
