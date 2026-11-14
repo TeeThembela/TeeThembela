@@ -134,7 +134,6 @@ A backend microservices-based system for managing patient-related information, w
 
 | | |
 |---|---|
-| 🚀 **Building** | [Authorization Service API](https://github.com/TeeThembela/Auth-Service) |
 | 🧠 **Learning** | AWS, unit testing, integration testing |
 | 👥 **Open to collaborating on** | Backend and distributed systems projects using Java and Spring Boot |
 | 📍 **Based in** | Butterworth, Eastern Cape, South Africa (open to relocation and remote) |
