@@ -2,9 +2,7 @@
 
 `Software Engineer | Java and Spring Boot`
 
-I am a Computer Science Honours graduate from the University of Fort Hare, focused on backend software development and distributed systems. I build backend applications and REST APIs using Java and Spring Boot, with experience in authentication, database management, and containerisation.
-
-My academic research involved developing a CNN-based crop disease detection system that achieved 95.42% classification accuracy.
+I am a Computer Science Honours graduate from the University of Fort Hare, focused on backend software development and distributed systems. I build backend applications and REST APIs using Java and Spring Boot, with experience in authentication, database management, and containerization. My academic research involved developing a CNN-based crop disease detection system that achieved 95.42% classification accuracy.
 
 I am currently seeking graduate and entry-level Software Engineer opportunities, locally and internationally. Open to remote work and relocation.
 
