@@ -107,7 +107,7 @@ A stateless authentication and authorization REST API built with Spring Boot and
 - Implemented scheduled cleanup of expired refresh tokens.
 - Configured Docker Compose to run the API, PostgreSQL, and Mailpit.
 
-**Technologies:** Java 21,Spring Boot 4, Spring Security 7, Spring Data JPA and Hibernate 7, PostgreSQL 18, Flyway, JJWT, Spring Mail and Thymeleaf, Docker and Docker Compose, Maven, OpenAPI and Swagger UI
+**Technologies:** Java 21, Spring Boot 4, Spring Security 7, Spring Data JPA and Hibernate 7, PostgreSQL 18, Flyway, JJWT, Spring Mail and Thymeleaf, Docker and Docker Compose, Maven, OpenAPI and Swagger UI
 
 ---
 
@@ -134,6 +134,7 @@ A backend microservices-based system for managing patient-related information, w
 
 | | |
 |---|---|
+| 🚀 **Building** | Patient Management System (Microservices) |
 | 🧠 **Learning** | AWS, unit testing, integration testing |
 | 👥 **Open to collaborating on** | Backend and distributed systems projects using Java and Spring Boot |
 | 📍 **Based in** | Butterworth, Eastern Cape, South Africa (open to relocation and remote) |
@@ -176,12 +177,6 @@ isiXhosa (Native) · English (Proficient)
 
 ---
 
-## 📊 GitHub Statistics
-
-[![TeeThembela's GitHub stats](https://github-stats-extended.vercel.app/api/?username=TeeThembela&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Thembela's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)](https://github-stats-extended.vercel.app/api/?username=TeeThembela&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Thembela's+Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed)
-
----
-
 ## Get in Touch
 
 <a href="https://www.linkedin.com/in/thembela-tole" target="_blank">
@@ -189,7 +184,7 @@ isiXhosa (Native) · English (Proficient)
 </a>
 
 <a href="mailto:tolethembela@gmail.com">
-  <img align="left" alt="LinkedIn" width="45px" style="padding-right:10px;" src="https://github.com/TeeThembela/TeeThembela/blob/main/gmail_google_mail_email_icon_133230.svg" />
+  <img align="left" alt="Email" width="45px" src="https://raw.githubusercontent.com/TeeThembela/TeeThembela/main/gmail_google_mail_email_icon_133230.svg" />
 </a>
 
 <br clear="left" />
